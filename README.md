@@ -37,6 +37,7 @@ python elevator_simulation.py
 
 
 ## Screenshots
+
 ![image](https://github.com/user-attachments/assets/c49fdff6-099f-4c70-937e-0fa735e3f617)
 
 
